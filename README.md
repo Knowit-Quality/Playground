@@ -14,6 +14,6 @@ Recommended Ide:
 ## Remaining setup
 - Github Actions to build and deploy project page
 + Nightly test of project page (and automatic bug report)
-  ++ Mabl ?
+  - Mabl ?
   - Cypress ?
   - Katalon ?
