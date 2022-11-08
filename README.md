@@ -13,7 +13,7 @@ Recommended Ide:
 + Azure Devops
 ## Remaining setup
 - Github Actions to build and deploy project page
-- Nightly test of project page (and automatic bug report)
--- Mabl ?
--- Cypress ?
--- Katalon ?
++ Nightly test of project page (and automatic bug report)
+  ++ Mabl ?
+  - Cypress ?
+  - Katalon ?
