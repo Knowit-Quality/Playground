@@ -9,7 +9,6 @@ Playground repository for Knowit Quality. Created to have a place for us to play
 - Project bug tracker [X-ray](https://knowitquality.atlassian.net)
 - Github Actions to build and deploy project page on [GitHub Pages](https://pages.github.com/) [Knowit Playground Pages] (https://knowit-quality.github.io/Playground/)
 
-
 Recommended Ide:
 + Azure Devops
 ## Remaining setup
@@ -17,3 +16,6 @@ Recommended Ide:
   - Mabl?
   - Cypress?
   - Katalon?
+
+  Problems?:
+  + Contact [Morten Hagbartsen](mailto:morten.hagbartsen@knowit.no)
