@@ -7,7 +7,7 @@ Playground repository for Knowit Quality. Created to have a place for us to play
 - Project documentation [Confluence](https://knowitquality.atlassian.net)
 - Project development board [Jira](https://knowitquality.atlassian.net)
 - Project bug tracker [X-ray](https://knowitquality.atlassian.net)
-- Github Actions to build and deploy project page on [GitHub Pages](https://pages.github.com/) [Knowit Playground Pages](https://knowit-quality.github.io/Playground/)
+- Github Actions to build and deploy project page on[Knowit Playground Github Pages](https://knowit-quality.github.io/Playground/)
 
 Recommended Ide:
 + Azure Devops
